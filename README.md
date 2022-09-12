@@ -1,7 +1,7 @@
 # Micro-Service-Architecture-Containerisation-
 
 
-### ### What is Micro service architecture?
+### What is Micro service architecture?
 - A microservices architecture is a type of application architecture where the application is developed as a collection of services. It provides the framework to develop, deploy, and maintain microservices architecture diagrams and services independently.
 
 ![image](https://user-images.githubusercontent.com/110182832/189628948-def60139-577c-4c94-99bf-acf6b25f305f.png)
@@ -13,6 +13,11 @@
 ### What is Docker ?
 - Docker is a software platform that simplifies the process of building, running, managing and distributing applications.
 - It does this by virtualizing the operating system of the computer on which it is installed and running.
+
+
+### Why companies uses Docker ?
+- The top reason enterprises are using Docker is to help them deploy across multiple systems, migrate applications, and remove manual reconfiguration work.
+- Because application dependencies are built into containers, Docker containers significantly reduce interoperability concerns
 
 
 ### Benefits of Containerisation and Docker:
@@ -37,5 +42,7 @@
 ## Virtualisation V/S Containerisation:
 - Virtualization enables you to run multiple operating systems on the hardware of a single physical server, 
    while containerization enables you to deploy multiple applications using the same operating system on a single virtual machine or server.
+   
+   
    
    ![image](https://user-images.githubusercontent.com/110182832/189630397-f4e6151b-fc83-4b72-97cc-8653de9aabea.png)
