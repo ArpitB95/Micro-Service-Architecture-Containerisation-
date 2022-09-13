@@ -138,3 +138,10 @@
 
 
 
+- move file from localhost to container
+- delete existing file
+- send file.html from localhost to container
+- copy data from a to b
+- docker cp command : cp source-address destination-address
+
+- Access denied - 
