@@ -152,3 +152,4 @@
    
 - 'docker cp /c/Users/bhadr/eng122_docker/index.html 21174c201611:/usr/share/nginx/html'
 
+<img width="633" alt="image" src="https://user-images.githubusercontent.com/110182832/189876044-36090389-ec6d-45d2-956f-334cced70733.png">
