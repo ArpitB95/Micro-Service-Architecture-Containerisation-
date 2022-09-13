@@ -138,10 +138,17 @@
 
 
 
+   
+ ## Host Static Website in Docker Container:
+   
 - move file from localhost to container
 - delete existing file
 - send file.html from localhost to container
 - copy data from a to b
 - docker cp command : cp source-address destination-address
 
-- Access denied - 
+### How to move file from localhost to container:
+- docker cp /home/(name)/(folder_name)/(file_name)  (container_id):/(to_the_place_you_want_the_file_to_be)
+   
+- 'docker cp /c/Users/bhadr/eng122_docker/index.html 21174c201611:/usr/share/nginx/html'
+
